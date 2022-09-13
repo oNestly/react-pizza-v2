@@ -1,0 +1,19 @@
+  {
+    "id": UNIQUE,
+    "imageUrl": "IMG",
+    "title": "NAME",
+    "dough": {
+      "traditional": {
+        "26": 285,
+        "30": 365,
+        "40": 395
+      },
+      "thin": {
+        "26": 265,
+        "30": 345,
+        "40": 375
+      }
+    },
+    "category": 5,
+    "rating": 7
+  }
